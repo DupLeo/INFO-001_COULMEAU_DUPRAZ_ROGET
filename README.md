@@ -30,7 +30,7 @@ Deux agents  (*Alice et Bob)* peuvent se mettre d'accord sur un nombre (qu'ils
 
 - La signature
 - La clé publique
-- La clé privée
+- La clé privée NON ! NON ! NON
 - Le sujet du certificat
 
 # 4. Etude du chiffrement RSA
