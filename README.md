@@ -237,7 +237,7 @@ openssl ca -config openssl.cnf -extensions v3_intermediate_ca \
 
 ### Question 24
 
-Il est pertinent de générer la clé de chiffrement asymétrique directement sur la machine du serveur, c’est-à-dire sur la machine tls-serv-votre_login car cette clé privée ne doit jamais quitter le serveur où elle sera utilisée car on augmente les risques d’interception ou de fuite pendant le transfert.
+Il est pertinent de générer la clé de chiffrement asymétrique directement sur la machine du serveur, c’est-à-dire sur la machine tls-serv car cette clé privée ne doit jamais quitter le serveur où elle sera utilisée car on augmente les risques d’interception ou de fuite pendant le transfert.
 
 # Mise en place d’un reverse proxy
 
